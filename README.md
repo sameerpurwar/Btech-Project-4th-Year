@@ -13,5 +13,5 @@ There are 5 models in total that I have made in Matlab -
 
 HOW TO RUN ?
 For running the model 1,2 and 3 you are required to run the data.m file first.
-For running the model 3,5 you are required to run the data.m file first.
+For running the model 3,5 you are required to run the Modified_Bergman.m file first.
 
